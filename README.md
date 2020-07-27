@@ -12,6 +12,10 @@
 
 db文件夹下
 
+### 前端代码
+
+https://github.com/shanPlus/vue_shop
+
 ### 项目目录
 
 - `config` 配置文件目录
